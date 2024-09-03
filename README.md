@@ -60,18 +60,18 @@ Have a Project in my Mind or Want to know anything about me?
 </a>
 
 
-<a href="https://github.com/MaanilVerma/Movie-Time">
-  <img align="right" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Movie-Time&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
+<a href="https://github.com/lazygupta/Face-Attendance">
+  <img align="right" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Face-Attendance&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a>
 
 &nbsp;
 
-<a href="https://github.com/MaanilVerma/Super-Chat-App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Super-Chat-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
+<a href="https://github.com/lazygupta/Spectra">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Spectra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a>
 
-<a href="https://github.com/MaanilVerma/zaiqa-restaurant">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=photo-gallery&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
+<a href="https://github.com/lazygupta/Railway-Reservation">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Railway-Reservation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a> 
 
 <br>
