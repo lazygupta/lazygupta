@@ -13,28 +13,23 @@
 ## 🚀 About Me
 👉 Building & Shipping Products End to End from Scratch. Problem Solver looking to solve problems at scale. 
 
-👉 Worked at 3 startups, where built application from scratch, and one of the application is LIVE on Samsung Platform with 30K users.
-
 Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with you:
 
 👉 JavaScript  <br>
 👉 TypeScript  <br>
 👉 ReactJS <br>
 👉 NextJS  <br>
-👉 React Unit Testing  <br>
-👉 Jest Unit Testing  <br>
 👉 HTML <br>
 👉 CSS <br>
-👉 SASS  <br>
 👉 NodeJS <br>
-👉 Java  <br>
-👉 GraphQL  <br>
-👉 Storybook  <br>
-👉 Prisma  <br>
+👉 ExpressJS <br>
+👉 MongoDB <br>
+👉 PostgreSQL <br>
+👉 C/C++ <br>
 
 Have a Project in my Mind or Want to know anything about me?
 
-<strong> Hit me up: 📧 maanilv8@gmail.com </strong>
+<strong> Hit me up: 📧 ankit30923@gmail.com </strong>
 
   
 ## 🛠 Tech Stack
@@ -60,7 +55,7 @@ Have a Project in my Mind or Want to know anything about me?
 
 <br>
 
-<a href="https://github.com/MaanilVerma/Notes-Maker">
+<a href="https://github.com/lazygupta/TellUs-A-Social-Indulge">
   <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Notes-Maker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a>
 
