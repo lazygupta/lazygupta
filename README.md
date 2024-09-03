@@ -56,7 +56,7 @@ Have a Project in my Mind or Want to know anything about me?
 <br>
 
 <a href="https://github.com/lazygupta/TellUs-A-Social-Indulge">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Notes-Maker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
+  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=TellUs - Social Media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a>
 
 
