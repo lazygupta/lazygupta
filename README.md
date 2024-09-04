@@ -5,8 +5,9 @@
 <a href="mailto:ankit30923@gmail.com"><img src="https://img.shields.io/badge/-ankit30923@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://x.com/lazygupta_"><img src="https://img.shields.io/twitter/url?color=White&label=Ankit%20Kumar&style=social&url=https%3A%2F%2Ftwitter.com%2FAnkitK"/></a>
 <a href="https://port-folio-two-self.vercel.app/">
-  <img src="https://img.shields.io/badge/website&logo=vercel&url=https%3A%2F%2Fport-folio-two-self.vercel.app%2F"/>
+  <img src="https://img.shields.io/badge/website-000000?style=social&logo=vercel&logoColor=white&url=https%3A%2F%2Fport-folio-two-self.vercel.app%2F"/>
 </a>
+
 
 
 </p>
