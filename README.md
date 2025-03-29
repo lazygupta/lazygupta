@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/ankitguptacusat/"><img src="https://img.shields.io/badge/Ankit%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ankit30923@gmail.com"><img src="https://img.shields.io/badge/-ankit30923@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://x.com/lazygupta_"><img src="https://img.shields.io/twitter/url?color=White&label=Ankit%20Kumar&style=social&url=https%3A%2F%2Ftwitter.com%2FAnkitK"/></a>
-<a href="https://lazyrabbit.vercel.app/"><img src="https://img.shields.io/badge/website-Ankit%20Kumar-white?style=social&logo=vercel&url=https%3A%2F%2Fport-folio-two-self.vercel.app%2F"/></a>
+<a href="https://lazyrabbit.space/"><img src="https://img.shields.io/badge/website-Ankit%20Kumar-white?style=social&logo=vercel&url=https%3A%2F%2Fport-folio-two-self.vercel.app%2F"/></a>
 
 
 
